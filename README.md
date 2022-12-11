@@ -13,9 +13,10 @@
   <p align="center"> Want to know more about me and my secrets? </p>
   <p align="center"> Connect with me:</p>
 
-<p align="center"> [LinkedIn](https://www.linkedin.com/in/paulavieiraoficial)</p>
-<p align="center"> [Twitter](https://twitter.com/eipvi)</p>
-
+<p align="center"><a href="https://www.linkedin.com/in/paulavieiraoficial/" target="blank"><img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paulavieiraoficial/" height="30" width="20" />
+</a>
+<a href ="https://discord.gg/paulavieira#0617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"alt="paulavieira#0617" height="30" width="25" /></a>
 </p>
 <h4 align="left">Languages and Tools:</h4>
 <p>

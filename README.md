@@ -1,11 +1,10 @@
 <h1>I have with me the thirst for knowledge and wish everyone to drink from this water...</h1>
 <h2>About me:</h2>
-<p>▪ I have knowledge in CC50, by the institution Fundação Estudar.</p>
-<p>▪ I study Python at Geek University.</p>
+<p>▪ I have knowledge in CC50: Introduction to Computer Science - The Harvard Course, in Brazil, by the institution Fundação Estudar.</p>
+<p>▪ I study Python, HTML5, CSS3, Js, PHP 7, MySQL, JQuery, APIs through Udemy.</p>
 <p>▪ Certified in HTML and CSS by Linkedin.</p>
 <p>▪ More than 2 years of experience in creating websites in WordPress and Elementor.</p>
-<p>▪ I have knowledge in SEO and digital strategies.</p>
-
+<p>▪ I have knowledge in SEO and digital strategies.</p><br>
 
 <h3>Traits:</h3>
 <p>Creativity, Curiosity, Optimism, Teamwork</p>

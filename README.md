@@ -1,13 +1,15 @@
 <h1>I have with me the thirst for knowledge and wish everyone to drink from this water...</h1>
 <h2>About me:</h2>
 <p>▪ I have knowledge in CC50: Introduction to Computer Science - The Harvard Course, in Brazil, by the institution Fundação Estudar.</p>
-<p>▪ I study Python, HTML5, CSS3, Js, PHP 7, MySQL, JQuery, APIs through Udemy.</p>
+<p>▪ I study HTML5, CSS3, Js, PHP 7, MySQL, JQuery, APIs.</p>
 <p>▪ Certified in HTML and CSS by Linkedin.</p>
 <p>▪ More than 2 years of experience in creating websites in WordPress and Elementor.</p>
-<p>▪ I have knowledge in SEO and digital strategies.</p><br>
+<p>▪ I have knowledge in Marketing and advertising strategies.</p>
+<p>▪ I believe in Bitcoin technology and I think more business projects should be created in favor of decentralization.</p><br>
 
 <h3>Traits:</h3>
 <p>Creativity, Curiosity, Optimism, Teamwork</p>
+
 
   <p align="center"> Want to know more about me and my secrets? </p>
   <p align="center"> Connect with me:</p>

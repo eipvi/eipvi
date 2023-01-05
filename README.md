@@ -8,16 +8,13 @@
 <p>▪ I believe in Bitcoin technology and I think more business projects should be created in favor of decentralization.</p><br>
 
 <h3>Traits:</h3>
-<p>Creativity, Curiosity, Optimism, Teamwork</p>
 
+<p>Creativity, Curiosity, Optimism, Teamwork</p>
 
   <p align="center"> Want to know more about me and my secrets? </p>
   <p align="center"> Connect with me on twitter. </p>
 
 
-</a>
-
-</p>
 <h4 align="left">Languages and Tools:</h4>
 <p>
 <div style="display: inline_block"><br>

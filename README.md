@@ -1,7 +1,5 @@
 Contact: eipvi@proton.me
 
-Projects:
-[DevBrasil](https://eipvi.github.io/DevBrasil/) |
 
 ### Languages and Tools:
 
